@@ -1,0 +1,10 @@
+
+Farmland
+	wheat
+		energy_required = 60,
+		ingredients = { {"wheat", 1} },
+		results = { {"wheat", 10} }
+	water-melon
+		energy_required = 60,
+		ingredients = { {"water-melon", 1} },
+		results = { {"water-melon", 10} }

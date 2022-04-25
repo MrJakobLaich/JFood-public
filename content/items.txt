@@ -1,0 +1,28 @@
+
+burger-bun
+	stack_size = 200,
+	cooldown = 1200,
+	boost_type = "movement",
+	boost_offset = 4
+
+sushi
+	stack_size = 50,
+	cooldown = 60,
+	boost_type = "mining",
+	boost_offset = 2
+
+wheat
+	stack_size = 150,
+	boost = false
+
+water-melon
+	stack_size = 50,
+	cooldown = 60,
+	boost_type = "crafting",
+	boost_offset = 2
+
+water-bottle
+	stack_size = 50,
+	cooldown = 10,
+	boost_type = "clear",
+	boost_offset = 0
